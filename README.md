@@ -1,1 +1,4 @@
-# leetcode-solutions
+- Total solved: 
+- Easy: 
+- Medium: 0
+- Hard: 0
